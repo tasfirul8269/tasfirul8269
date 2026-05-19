@@ -30,21 +30,6 @@ Most of my work lives in private repositories, client systems, internal librarie
 
 ---
 
-**Stats**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasfirul8269&theme=tokyo-night&hide_border=true&area=true&point=AAEA5E&line=6366F1&color=a0a0a0" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfirul8269&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" height="150"/>
-
-</div>
-
----
 
 <div align="center">
 
