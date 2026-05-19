@@ -28,15 +28,3 @@ Most of my work lives in private repositories, client systems, internal librarie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
----
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasfirul-haque)
-[![Website](https://img.shields.io/badge/frooxi.com-6366F1?style=flat-square&logo=firefox-browser&logoColor=white)](https://frooxi.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tasfirul82669)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tasfirul8269&color=6366F1&style=flat-square&label=Profile+Views)
-
-</div>
