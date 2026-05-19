@@ -9,13 +9,13 @@
 
 ---
 
-I'm a software engineer and founder based in Bangladesh. I started writing code because I genuinely loved building things — first mobile apps in Java and Kotlin, then Flutter. As I started running a software company, I kept learning, kept adapting, and eventually went all-in on web and product work. These days I spend most of my time in TypeScript, React, Next.js, and Node.js, with Python coming in more frequently as I push deeper into AI integrations.
+I'm a student and founder from Bangladesh, and yes, I'm fully aware those two words don't usually sit together that comfortably. I got into coding the moment I realized I could build a real app, put it on a phone, and have it actually run. That was it for me. Started with mobile development in Java and Kotlin, picked up Flutter, and genuinely fell in love with the craft. Mobile still excites me, if I'm being honest. But when I started running my own software company, I quickly realized the learning never stops. Every new project demanded something new, and I was more than okay with that. These days most of my time goes into TypeScript, React, Next.js, and Node.js, with Python showing up more and more as I push into AI integrations.
 
-I'm the Founder and CTO of **[Frooxi](https://frooxi.com)** — a software venture studio I'm building from the ground up. The idea is straightforward: use real client work to fund, validate, and build software products. Instead of raising money to bet on an idea, we take on meaningful integration projects, identify problems that surface repeatedly across clients, and build standalone software around them — whether that's a SaaS product, a platform, an API, or something that doesn't fit a clean category yet. The client work pays the bills. The products build the long-term value. It's still early — we're deep in our first vertical (Real Estate) — but the model is working and the direction is clear.
+I'm the Founder and CTO of **[Frooxi](https://frooxi.com)**, a software venture studio we're building from the ground up. The short version: we work with businesses, build real systems for real problems, and use everything we learn along the way to build software products of our own. Not just SaaS, not just apps, whatever form makes sense for the problem. We're early, we're focused, and we're having a great time doing it.
 
-The most exciting thing I'm currently building is **[Salery](https://frooxi.com)** — an AI commerce platform for social-commerce merchants. The name comes from *Sale + Early*. Salery handles your entire customer-facing operation: it talks to customers on Facebook, Messenger, Instagram, WhatsApp, and through a live chat widget you can drop into any website — whether it's custom-built, WordPress, or Shopify. Beyond conversations, it gives merchants a product API so they can display and manage their catalogue directly on their website without needing a separate admin panel built. It's built specifically for merchants in Bangladesh, Southeast Asia, and the Middle East who run their businesses entirely through social channels — a market that existing tools have almost completely ignored.
+The thing we're most fired up about right now is **[Salery](https://frooxi.com)**, an AI commerce platform we're building for social-commerce merchants. The name is *Sale + Early*, and the idea is simple: most merchants in Bangladesh, Southeast Asia, and the Middle East run their entire business through Facebook, WhatsApp, and Instagram. They're doing serious volume, but the tools built for them are basically nonexistent. Salery changes that. It handles all customer conversations across Facebook, Messenger, Instagram, and WhatsApp, and also works through a live chat widget you can drop into any website, custom-built, WordPress, Shopify, you name it. There's also a product API so merchants can show their full catalogue on their own website without needing a separate admin panel built for them. It's one of those products where the more you explain it, the more obvious it becomes that it needed to exist.
 
-Most of my serious work lives in private repositories — client systems, internal libraries, and product infrastructure I'm building under Frooxi. The public repos here are a fraction of what's actually going on.
+Most of my work lives in private repositories, client systems, internal libraries, product infrastructure. What's visible here is a fraction of what's actually being built.
 
 ---
 
@@ -41,8 +41,6 @@ Most of my serious work lives in private repositories — client systems, intern
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfirul8269&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" height="150"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=tasfirul8269&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
