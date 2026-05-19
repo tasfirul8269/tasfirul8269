@@ -1,18 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tasfirul.;Founder+%26+CTO+%40+Frooxi.;I+build+software+that+outlasts+the+project.)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=AAEA5E&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Tasfirul.;Founder+%26+CTO+%40+Frooxi.;I+build+software+that+outlasts+the+project.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=012F24&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Tasfirul.;Founder+%26+CTO+%40+Frooxi.;I+build+software+that+outlasts+the+project." alt="Typing SVG">
+</picture>
 
 </div>
 
 ---
 
-I'm a software engineer and founder based in Bangladesh. I started writing code because I genuinely loved building things — first mobile apps in Java and Kotlin, then Flutter, and eventually shifted entirely to web and product work as I started running a company. These days I spend most of my time in TypeScript, React, Next.js, and Node.js, with Python coming in more frequently as I work on AI integrations.
+I'm a software engineer and founder based in Bangladesh. I started writing code because I genuinely loved building things — first mobile apps in Java and Kotlin, then Flutter. As I started running a software company, I kept learning, kept adapting, and eventually went all-in on web and product work. These days I spend most of my time in TypeScript, React, Next.js, and Node.js, with Python coming in more frequently as I push deeper into AI integrations.
 
-I'm the Founder and CTO of **[Frooxi](https://frooxi.com)** — a software venture studio I'm building from the ground up. The idea behind Frooxi is straightforward: use real client work to fund, validate, and build software products. Instead of raising money to bet on an idea, we take on high-value integration projects, identify the problems that keep coming up across clients, and turn those into independent SaaS products. The client work pays the bills. The products build the long-term value. It's still early — we're deep in our first vertical (Real Estate) — but the model is working and the direction is clear.
+I'm the Founder and CTO of **[Frooxi](https://frooxi.com)** — a software venture studio I'm building from the ground up. The idea is straightforward: use real client work to fund, validate, and build software products. Instead of raising money to bet on an idea, we take on meaningful integration projects, identify problems that surface repeatedly across clients, and build standalone software around them — whether that's a SaaS product, a platform, an API, or something that doesn't fit a clean category yet. The client work pays the bills. The products build the long-term value. It's still early — we're deep in our first vertical (Real Estate) — but the model is working and the direction is clear.
 
-Right now I'm building an AI-powered customer service and sales platform targeting social-commerce merchants in Bangladesh, Southeast Asia, and the Middle East — businesses that run almost entirely through Facebook and WhatsApp and are completely underserved by existing tools. It's the most technically challenging thing I've worked on, and easily the most interesting.
+The most exciting thing I'm currently building is **[Salery](https://frooxi.com)** — an AI commerce platform for social-commerce merchants. The name comes from *Sale + Early*. Salery handles your entire customer-facing operation: it talks to customers on Facebook, Messenger, Instagram, WhatsApp, and through a live chat widget you can drop into any website — whether it's custom-built, WordPress, or Shopify. Beyond conversations, it gives merchants a product API so they can display and manage their catalogue directly on their website without needing a separate admin panel built. It's built specifically for merchants in Bangladesh, Southeast Asia, and the Middle East who run their businesses entirely through social channels — a market that existing tools have almost completely ignored.
 
-Most of my serious work lives in private repositories — client systems, internal libraries, and product infrastructure I'm building for Frooxi. The public repos here are a fraction of what's actually going on.
+Most of my serious work lives in private repositories — client systems, internal libraries, and product infrastructure I'm building under Frooxi. The public repos here are a fraction of what's actually going on.
 
 ---
 
@@ -27,19 +30,19 @@ Most of my serious work lives in private repositories — client systems, intern
 
 ---
 
-**GitHub Stats**
+**Stats**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tasfirul8269&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfirul8269&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasfirul8269&theme=tokyo-night&hide_border=true&area=true&point=AAEA5E&line=6366F1&color=a0a0a0" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tasfirul8269&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfirul8269&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" height="150"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=tasfirul8269&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
